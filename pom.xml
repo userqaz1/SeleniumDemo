@@ -43,6 +43,7 @@
     <artifactId>maven-surefire-plugin</artifactId>
     <version>2.19.1</version>
     <configuration>
+        <testFailureIgnore>true</testFailureIgnore>
         <suiteXmlFiles>
               <suiteXmlFile>/temp-testng-customsuite.xml</suiteXmlFile>
        </suiteXmlFiles>
