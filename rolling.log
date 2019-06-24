@@ -1,0 +1,4 @@
+[framework] 2019-06-23 17:34:16,373 - log4j.LoggerControlTest -7    [main] ERROR log4j.LoggerControlTest  - 杩欐槸error
+[framework] 2019-06-24 00:15:17,487 - log4j.LoggerControlTest -24152 [main] ERROR log4j.LoggerControlTest  - 这是error
+[framework] 2019-06-24 00:18:05,694 - log4j.LoggerControlTest -6    [main] ERROR log4j.LoggerControlTest  - 杩欐槸error
+[framework] 2019-06-24 00:38:06,273 - log4j.LoggerControlTest -10879 [main] ERROR log4j.LoggerControlTest  - 这是error

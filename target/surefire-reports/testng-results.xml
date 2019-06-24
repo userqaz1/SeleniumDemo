@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="17428" started-at="2019-06-23T16:37:54Z" finished-at="2019-06-23T16:38:11Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="17428" started-at="2019-06-23T16:37:54Z" finished-at="2019-06-23T16:38:11Z">
+      <class name="test1.BrowserTest">
+        <test-method status="PASS" signature="open()[pri:0, instance:test1.BrowserTest@4520ebad]" name="open" duration-ms="5344" started-at="2019-06-24T00:38:06Z" finished-at="2019-06-24T00:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- test1.BrowserTest -->
+      <class name="com.selen.day1.ClickTest">
+        <test-method status="PASS" signature="Click()[pri:0, instance:com.selen.day1.ClickTest@735b5592]" name="Click" duration-ms="3016" started-at="2019-06-24T00:38:03Z" finished-at="2019-06-24T00:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click -->
+      </class> <!-- com.selen.day1.ClickTest -->
+      <class name="com.selen.day1.ChromeTest">
+        <test-method status="PASS" signature="Chrome()[pri:0, instance:com.selen.day1.ChromeTest@7f9a81e8]" name="Chrome" duration-ms="3497" started-at="2019-06-24T00:37:54Z" finished-at="2019-06-24T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chrome -->
+        <test-method status="PASS" signature="FirefoxTest()[pri:0, instance:com.selen.day1.ChromeTest@7f9a81e8]" name="FirefoxTest" duration-ms="5545" started-at="2019-06-24T00:37:57Z" finished-at="2019-06-24T00:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxTest -->
+      </class> <!-- com.selen.day1.ChromeTest -->
+      <class name="log4j.LoggerControlTest">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:log4j.LoggerControlTest@58651fd0]" name="testcase" duration-ms="3" started-at="2019-06-24T00:38:06Z" finished-at="2019-06-24T00:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- log4j.LoggerControlTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
