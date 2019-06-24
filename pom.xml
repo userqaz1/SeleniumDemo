@@ -43,9 +43,11 @@
     <artifactId>maven-surefire-plugin</artifactId>
     <version>2.19.1</version>
     <configuration>
-  <suitXmlFiles>./temp-testng-customsuite.xml</suitXmlFiles>
-        <target>1.8</target>
-        <encoding>UTF-8</encoding>
+  <suiteXmlFiles>
+      <suiteXmlFile>/temp-testng-customsuite.xml</suiteXmlFile>
+      </suiteXmlFiles>
+        <!--<target>1.8</target>-->
+        <!--<encoding>UTF-8</encoding>-->
     </configuration>
 </plugin>
      </plugins>
